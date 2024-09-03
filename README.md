@@ -8,10 +8,9 @@ View the project here: https://savanpatel04.github.io/JewelBill/
 
 Technologies
 
-Spring Framework
-Java
-MySQL
-REST APIs
-HTML
-CSS
-Bootstrap
+- Java
+- MySQL
+- REST APIs
+- HTML
+- JFrame
+- JavaScript
