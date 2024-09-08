@@ -4,7 +4,7 @@ This repository contains a demonstration page for the JewelBill product develope
 
 Live Demo
 
-View the project here: https://savanpatel04.github.io/JewelBill/
+View the project here: https://savanpatel04.github.io/JewelPay/
 
 Technologies
 
